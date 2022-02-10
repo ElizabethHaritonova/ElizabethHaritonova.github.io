@@ -1,0 +1,237 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+nav{
+   width: 100%;
+   height: 60px;
+   background: #344051; 
+}
+
+.logo{
+    color: #fff;
+    font-size: 25px;
+    line-height: 60px;
+    padding-left: 188px;
+    float: left;
+}
+
+.menu{
+   float: left;
+    padding-left: 340px;
+}
+
+.menu li{
+   float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/look.com.ua-103113.jpg) center/cover no-repeat;
+}
+
+.title__container{
+     float: left;
+    color: #fff;
+    text-align: center;
+     margin: 220px 0px 0px 190px;
+}
+
+.title__container h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.title__container h4{
+    margin: 20px;
+    font-size: 18px;    
+}
+
+.title__container input{
+  height: 40px;
+    text-align: center;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0px 13px;
+    margin: 30px 14px 0px 14px;  
+}
+.title__container1{
+     float: left;
+    color: #fff;
+    text-align: center;
+     margin: 20px;
+}
+.title__container1 h2{
+     line-height: 20px;
+    font-size: 20px;
+    height: 220px;
+     background: url(../img/IMG_2176.JPG) center/100px auto no-repeat local;
+}
+.title__container1 p{
+     text-align: left;
+     height: 60px;
+    color: #fff;
+    margin: 0px 260px 30px 260px;
+}
+.title__container1 input{
+  height: 40px;
+    text-align: center;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0px 13px;
+    margin: 0px 14px 0px 14px;
+}
+.title__container2{
+     float: left;
+    color: #fff;
+     margin: 20px;
+}
+.title__container2 h2{
+     text-align: center;
+     line-height: 20px;
+    font-size: 20px;
+    height: 220px;
+}
+.title__container2 li{
+     float: left;
+     text-align: center;
+    line-height: 20px;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 10px;
+}
+.title__container2 p{
+     text-align: center;
+     height: 60px;
+    line-height: 15px;
+     padding: 0px 13px;
+    margin: 20px 5px 0px 5px;
+}
+.title__container3{
+     float: left;
+    text-align: center;
+    color: #fff;
+     margin: 20px;
+}
+.title__container3 h2{
+     line-height: 30px;
+    font-size: 20px;
+    height: 80px;
+}
+.title__container3 p{
+ text-align: left;
+     height: 40px;
+     line-height: 15px;
+}
+.title__container3 input{
+     float: left;
+  height: 40px;
+    text-align: center;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0px 10px;
+      margin: 20px 0px;
+}
+.title__container4 {
+    float: left;
+     text-align: center;
+    color: #fff;
+     margin: 20px;
+}
+.title__container4 h2{
+     line-height: 20px;
+    font-size: 20px;
+    height: 80px;
+}
+.title__container4 p{
+     text-align: left;
+     height: 40px;
+}
+.title__container5{
+     float: left;
+     text-align: center;
+    color: #fff;
+     margin: 20px;
+}
+.title__container5 h2{
+     line-height: 20px;
+    font-size: 20px;
+    height: 220px;
+}
+.title__container5 li{
+      float: left;
+     text-align: center;
+    line-height: 20px;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 10px;
+}
+.title__container5 p{
+     text-align: center;
+     height: 60px;
+    line-height: 15px;
+     padding: 0px 13px;
+    margin: 20px 5px 0px 5px;
+}
+.title__container6{
+     float: left;
+    color: #fff;
+     margin: 20px;
+}
+.title__container6 h2{
+     text-align: center;
+     line-height: 20px;
+    font-size: 20px;
+    height: 220px;
+    background:url(../img/iOZJLCJKC.jpg) center/cover no-repeat; 
+}
+.title__container6 p{
+     text-align: center;
+     height: 60px;
+    line-height: 15px;
+}
+.title__container6 b{
+     text-align: center;
+     height: 60px;
+    line-height: 15px;
+}
+.title__container7{
+     float: left;
+    color: #fff;
+     margin: 20px;
+}
+.title__container7 h2{
+     text-align: center;
+     line-height: 20px;
+    font-size: 20px;
+    height: 220px;
+}
+.title__container7 li{
+     float: left;
+     text-align: center;
+    line-height: 20px;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 10px;
+}
+.title__container7 p{
+     text-align: center;
+     height: 60px;
+    line-height: 15px;
+     padding: 0px 13px;
+    margin: 20px 5px 0px 5px;
+}
